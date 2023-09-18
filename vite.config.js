@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: 'https://github.com/carlos-angel/sports-indesag',
+  base: 'https://carlos-angel.github.io/sports-indesag',
 });
